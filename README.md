@@ -12,3 +12,5 @@
  
  Koden ska innehålla minst en funktion (utöver main), vara kommenterad och korrekt indenterad. Läs mer om bedömning nedan.
  Skicka in källkodsfilen som du döpt till <ditt_namn>.cpp
+
+[PSEUDOKOD](PSEUDOCODE.md)
